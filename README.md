@@ -1,5 +1,5 @@
 ### Sabertooth Chatbot
 ## Our ChatBot
 <p align="center">
-<img src="/images/Demo.gif" >
+<img src="/images/chatbot.gif" >
 </p>
